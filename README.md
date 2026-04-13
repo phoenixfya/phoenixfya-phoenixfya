@@ -1,4 +1,5 @@
-![Preview](https://raw.githubusercontent.com/phoenixfya/multiscale-gmc-analysis/main/figures/gmc_density_scaling.png)
+<img width="2065" height="1430" alt="gmc_density_scaling" src="https://github.com/user-attachments/assets/be151c9c-6813-48a5-91d9-ce8f22e33c71" />
+
 # Phoenix Harrison
 
 Astrophysics @ UC Merced  
